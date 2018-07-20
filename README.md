@@ -1,2 +1,2 @@
 # To-Do-App
-To do app feito para prática pessoal
+To do app simples feito para prática pessoal
