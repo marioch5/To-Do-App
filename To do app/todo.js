@@ -36,7 +36,7 @@ function createToDoObject (toDoText) {
         <div class="todo">
             <input class="checkToDo" type="checkbox"><span>${toDoText}</span>
         </div>
-        <button class="delete-todo" style="visibility: hidden">Deletar</button>
+        <button class="delete-todo" style="visibility: hidden">Delete</button>
     </div>
     `
 
